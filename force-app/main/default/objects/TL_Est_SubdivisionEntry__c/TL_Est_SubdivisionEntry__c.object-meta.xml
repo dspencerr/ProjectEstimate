@@ -153,14 +153,14 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>ControlledByParent</externalSharingModel>
-    <label>Subdivision</label>
+    <label>Subdivision Entry</label>
     <nameField>
-        <displayFormat>SD-{00000}</displayFormat>
+        <displayFormat>SDE-{00000}</displayFormat>
         <label>Name</label>
         <trackHistory>false</trackHistory>
         <type>AutoNumber</type>
     </nameField>
-    <pluralLabel>Subdivisions</pluralLabel>
+    <pluralLabel>Subdivision Entries</pluralLabel>
     <searchLayouts></searchLayouts>
     <sharingModel>ControlledByParent</sharingModel>
     <visibility>Public</visibility>

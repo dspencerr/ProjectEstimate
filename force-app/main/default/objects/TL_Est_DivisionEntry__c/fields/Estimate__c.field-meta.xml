@@ -4,7 +4,6 @@
     <externalId>false</externalId>
     <label>Estimate</label>
     <referenceTo>TL_Est_Estimate__c</referenceTo>
-    <relationshipLabel>Divisions</relationshipLabel>
     <relationshipName>Divisions</relationshipName>
     <relationshipOrder>0</relationshipOrder>
     <reparentableMasterDetail>false</reparentableMasterDetail>

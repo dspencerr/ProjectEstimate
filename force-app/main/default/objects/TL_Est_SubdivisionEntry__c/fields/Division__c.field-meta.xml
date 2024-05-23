@@ -3,8 +3,7 @@
     <fullName>Division__c</fullName>
     <externalId>false</externalId>
     <label>Division</label>
-    <referenceTo>TL_Est_Division__c</referenceTo>
-    <relationshipLabel>Subdivisions</relationshipLabel>
+    <referenceTo>TL_Est_DivisionEntry__c</referenceTo>
     <relationshipName>Subdivisions</relationshipName>
     <relationshipOrder>0</relationshipOrder>
     <reparentableMasterDetail>true</reparentableMasterDetail>
